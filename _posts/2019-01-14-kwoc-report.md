@@ -18,58 +18,17 @@ After completing my course on machine learning in November, I was looking to con
 **Choosing the Projects**
 
 I wanted to work mainly on the projects that were using Python, Machine Learning, Deep Learning algorithms and frameworks
-and thus, adhered to them. I went through projects like Stock Market Forecasting, Benji, Sangita, Merkalysis, Ball Sacker, Artemis Arrow, Imagery
+and thus, adhered to them. I went through projects like Stock Market Forecasting, Benji, Sangita, Merkalysis, Ball Sacker, Artemis Arrow, Imagery and started working on them. In the long run I decided to continue with Stock Market Forecasting.
 
 **Work/Challenges**
 
 **1. STOCK MARKET FORECASTING**
 
-I came across the ‘git’ project which immediately took my attention as I was
-trying to understand the version control systems. After being unable to explore
-much on myself, my mentor the project - Pranit Bauva, asked me via mail about
-my proceedings. He gave me some pointers to work upon – the microtasks in
-Git project for 2017. I worked upon 2 of the microtasks :
-1] Investigate if it is possible to use pylint to analyze git-p4 python code.
-I learned about the linting process – highly useful in maintaining coding
-practices and also about the pylint tool.
-2] Avoid pipes in git related commands for test suite.
-To make testing more transparent, piping in git commands should be avoided
-and rather write output of each command to a file and use it for testing. I
-learned about the general expression grep and its git specifics.
+The main reason I adhered to this project was I liked approach of my mentor. He introduced some bugs(partial updates) in the codebase so that whenever a person tries to understand the code he will also update and debug it with his own logic. This made learning the codebase quite a lot of fun.  
+At the very Beginning, I updated the webcrawlers of the project with urllib3 library of python and fixed some minor bugs. I also got to know how webscrapping can be easily done with beautiful-soup.(library of python).
+Afterwards, for during my mid evaluation I worked on enhancing the preprocessing steps of the training model. I added a module through which we can use pretrained word vectors to make word embeddings for our vocabulary. Also, using that I made word vectors for the project vocabulary using GloVe and stored it seperately.   
+Finally, I started working on enhancing the Deep Learning model. I almost Trained 50-80 different models with the help of tensorflow-gpu on training set containing 100k news. I learned various techniques to improve the accuracy of model. After lot of experiments I was able to find that stacked Bi-GRU model is the best model for a given task. During my entire journey I was learning quite a lot of things everyday.
 
-**2. SMVDU-ALGOS**
-
-This project is about the various basic to advanced algorithms used in
-Computer Science field. I added selection sort algorithm for C++.
-I worked on topological sort algorithm but the implementation failed to pass
-certain test cases as when reviewed. I created a new implementation for it but
-was unable to create PR before the pens down date.
-
-**3. Coala**
-
-Coala has very friendly community support for the newcomers and I worked
-upon adding travis CI task.
-
-**4. Sensenet**
-
-Python task.! ‘Make pip install’ was the task to be completed. I learned how to
-make the project package pip installble rather than building it from source. I
-also learned to build packages from source.
-
-**5. Social-Media-Review-Platform**
-
-The task was to integrate php code sniffer for code quality. I created the
-phpcs.xml file for using code sniffer, but the pull request was not reviewed and
-merged.
-
-**6. Hoxnox**
-
-The project had one JS issue – ‘make the project field in portfolio optional’ and I
-tried working on it. This required some validation JS file changes and
-corresponding html file changes.
-I made the changes in JS file correctly but html changes were not done initially,
-PR failed at review. I couldn’t work on the issue again before the end of coding
-period.
 
 **Verdict**
 
