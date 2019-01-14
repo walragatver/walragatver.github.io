@@ -28,7 +28,7 @@ The main reason I adhered to this project was I liked approach of my mentor. He 
 At the very Beginning, I updated the webcrawlers of the project with urllib3 library of python and fixed some minor bugs. I also got to know how webscrapping can be easily done with beautiful-soup.(library of python).  
 Afterwards,during mid evaluation I worked on enhancing the preprocessing steps of the training model. I added a module through which we can use pretrained word vectors to make word embeddings for our vocabulary. Also, using that I made word vectors for the project vocabulary using GloVe and stored it seperately.   
 Finally, I started working on enhancing the Deep Learning model. I almost Trained 50-80 different models with the help of tensorflow-gpu on training set containing 100k news. I learned various techniques to improve the accuracy of model. After lot of experiments I was able to find that stacked Bi-GRU model is the best model for a given task. I achieved accuracy of 96.50%
-with my model. 
+with my model.  
 During my entire journey I was learning quite a lot of things everyday.
 
 
