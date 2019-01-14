@@ -38,8 +38,9 @@ During my entire journey I was learning quite a lot of things everyday.
 **List Of Pull Request's**  
 [#2](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning/pull/2) : Updated One web crawler.  
 [#5](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning/pull/5) : Updated all web crawlers's  
-[#7](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning/pull/7) : Made word embeddings from vocablury 
+[#7](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning/pull/7) : Made word embeddings from vocablury   
 [#10](https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning/pull/10) : Updated readme.md and added final model
+
 **Verdict**
 
 I learned a lot of new things while contributing in these projects and was able to
