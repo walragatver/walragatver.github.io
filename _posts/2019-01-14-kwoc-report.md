@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kharagpur Winter of Code, 2017
+title: Kharagpur Winter of Code, 2018
 subtitle: Program Report
-tags: ['IIT-KGP','Kharagpur Winter of Code']
+tags: ['Open Source','KWOC']
 ---
 
 KWOC is the 5-week long online program for the students who are new to
@@ -13,21 +13,16 @@ programs like Google Summer of Code.
 
 **Getting started**
 
-I created my first pull request in the second week of november and was just
-looking for any open source program like GSOC for the winter period. I
-stumbled upon the KWOC website and was excited to join this program as it
-seemed to be the preparation for Google Summer of Code.
+After completing my course on machine learning in November, I was looking to contribute in open source community. Earlier my seniors suggested me of KWOC, so I made a quick google search and found that it's goint to start soon. I was pretty excited to contribute in KWOC as it was like a practice session for Google Summer Of Code.
 
 **Choosing the Projects**
 
-I wanted to work mainly on the projects that were using Python, C, C++, PHP
-and firstly I adhered to it. Later, I also worked upon a JavaScript project. I
-tried my hand on projects like git, coala, sensenet, smvdu-algos, social-media-
-review-platform, hoxnox.
+I wanted to work mainly on the projects that were using Python, Machine Learning, Deep Learning algorithms and frameworks
+and thus, adhered to them. I went through projects like Stock Market Forecasting, Benji, Sangita, Merkalysis, Ball Sacker, Artemis Arrow, Imagery
 
 **Work/Challenges**
 
-**1. Git**
+**1. STOCK MARKET FORECASTING**
 
 I came across the ‘git’ project which immediately took my attention as I was
 trying to understand the version control systems. After being unable to explore
@@ -78,14 +73,10 @@ period.
 
 **Verdict**
 
-I learned a lot of new things while woking on these projects and was able to
-work on new technologies. I learned the github workflow and its various tools.
-The experience with Kharagpur Winter of Code has been truly amazing and
-fruitful. Huge thanks to mentors for helping me at various steps throughout the
-working period. I would like to thank IIT Kharagpur and Kharagpur Open Source Society for hosting this program and allowing participants from outside the
-IIT-KGP.
+I learned a lot of new things while contributing in these projects and was able to
+work on new libraries and technologies in Machine Learning. My learning rate was exponential. Being a newbie it also helped me in getting well-acquainted in version control tools like git and git-hub. I am highly grateful to my mentors for guiding me to overcome the problems I faced. Also, I would like to thank Kharagpur Open Source Society for hosting this program which provides opportunity to students across various colleges to work on such fascinating projects.
 
 
-***Ashwin Samudre***
+***Toshal Agrawal***
 
-https://github.com/kiryteo
+https://github.com/walragatver
