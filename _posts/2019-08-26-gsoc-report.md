@@ -2,7 +2,7 @@
 layout: post
 title: Google Summer of Code, 2019
 subtitle: Final Report
-tags: ['Open Source','KWOC']
+tags: ['Open Source','GSOC']
 ---
 
 # Overview
